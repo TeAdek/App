@@ -28,3 +28,39 @@ A single file is fine for very small projects. For large projects, it is smarter
 
     - **Naming things**:  
 I should have used short, meaningful, and descriptive name.
+
+**Activity 0201**:
+
+Identify the values inherent to the app that might help to identify the target user base 
+- It informs- people inform you about things that is happening around them
+- It communicates – you can communicate freely and effectively with people
+- It connects or network – you can have communication with different and unique people in your vicinity or around the world
+- It saves person money – you are not required to pay extra for calling people in a domesticated or international setting, just pay for only internet plan to enable free communication with anybody from anywhere
+- It maintain relationship – communicating with your friends, parents, family, lover etc can maintain a level of familiarity and ensure you continue to know lots of things about them to maintain a relationship.
+- It ensures sales or profit making – communicate with sellers to reserve product and send payments
+
+Briefly describe the target user base. 
+- People with compatible phone
+- People with functional internet
+- People who like to interact with different and new people
+- People who desire to maintain connection with families and friends
+
+Do your goals in using the app match those of the target user base?
+- Yes, I communicate with variety of people and maintain a relationship with family and friends
+
+**Activity 0202**:
+
+Examine the identifiers (i.e. variable and method names, etc.) used in the code. Are they sufficiently descriptive? Are they perhaps too descriptive (i.e. too long, or to complicated). 
+- Yes they are generally short and precise
+
+Do they make sense in the context of your project? 
+- Since the project deals with creating a Restaurant website, navigation list, class and identifier like Home,Menu, Reservation, testimonal perfectly suit it
+
+Identify between five and ten names in the code that you could consider changing either to be more descriptive, or more consistent with one another.
+- paragraph – introduction
+- testimonial – recommendation
+- author – customer
+- slide – picHeader
+- menuHeader - menuSubTitle
+- menu - menuItem
+
