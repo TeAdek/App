@@ -64,3 +64,18 @@ Identify between five and ten names in the code that you could consider changing
 - menuHeader - menuSubTitle
 - menu - menuItem
 
+**Activity 0301**:
+- Similar Home Page, play and connect
+- Download selector icon is a little different
+- The three dots for option are different: Iphone is horizontal, android is vertical
+- Add to Home Screen option is available on android but not on ios
+- On the browse page, the way genre list are portrayed is different: ios is row position with simple icons, android is in column position in a colourful rectangle
+- New release page for android has a fading from colour to black linear gradient background colour tone, ios has a smaller section for the title.
+- Filter option of the android is simple and small, in ios the filter option overshadows the screen with a translucent background.
+- Podcasts categories page on android has colourful rectangle, ios has simple icons in front of rectangular pictures
+- The podcasts categories when selected as fade from picture to black linear gradient for the titles on ios e.g top podcast, android just has a fading from colour to black linear gradient background colour tone
+ - All artists list on Library page for ios is alphabetically with the alphabet letter crammed together at the right side of page, on andriod the artist list has alphabet on top of artists name strating with the same alphabet.
+
+**Activity 0302**:
+- Animation of icon or images informs the user about an action. It enables a subtle change of UI to the awareness of the user. It can provide a smooth and realistic movement of an object.  It changes the layout within a activity and between layouts in separate activities.
+- The documentation structure provides general definition with illustrative examples attached to it. It provides codes and links to expand more on the topic.
