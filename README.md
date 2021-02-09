@@ -79,3 +79,17 @@ Identify between five and ten names in the code that you could consider changing
 **Activity 0302**:
 - Animation of icon or images informs the user about an action. It enables a subtle change of UI to the awareness of the user. It can provide a smooth and realistic movement of an object.  It changes the layout within a activity and between layouts in separate activities.
 - The documentation structure provides general definition with illustrative examples attached to it. It provides codes and links to expand more on the topic.
+
+**Activity 0401**:
+- Slack: ONBOARDING - Sign Up Flows
+1. Skeleton Views:
+
+When loading the app after completing the signing process, the skeleton view is first displayed to create the feeling that the app will soon load the images and info. It encourages patience and anticipation from the user, rather than displeasure. It occurs because the network is not fast enough for the app. It appears in form of grey rectangle for images, grey circle for profile, grey slightly rounded rectangle with a small height for the text and so on. 
+
+2. Two-Step Authentication:
+
+Ensuring the email address is valid, a six-digit confirmation code is sent to the email to enter in the app. It is for security purpose which occurs by generating a one time password remotely from the app server and is shared with user through the SMS or email to be typed in, thereby completing part of the log in process. 
+
+**Activity 0402**:
+
+- The second exercise is more orthogonal because you are not tied to a particular product or file, so it is reusable. The concept of orthogonality relates to MVC because it follows similar principle of decoupling your code and avoiding duplicating codes. This is for the purpose of isolating the code to make changes and fixes to some parts of it without affecting the overall project for the worst.
