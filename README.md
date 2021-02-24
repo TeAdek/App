@@ -93,3 +93,14 @@ Ensuring the email address is valid, a six-digit confirmation code is sent to th
 **Activity 0402**:
 
 - The second exercise is more orthogonal because you are not tied to a particular product or file, so it is reusable. The concept of orthogonality relates to MVC because it follows similar principle of decoupling your code and avoiding duplicating codes. This is for the purpose of isolating the code to make changes and fixes to some parts of it without affecting the overall project for the worst.
+
+**Activity 0501**:
+
+- MVC (model-view-controller) – Model is the business logic of the project with no tie to the view or controller, so reusable and testable. View is the visual representation of the project, UI, that communicates with the controller when the user interacts with the project. It is more connected to the Controller which ensures flexibility. Controller is the middleman that connects the view to the model. It is difficult to test and inflexible because of its strong coupling with view, which can almost be an extension, and can be overloaded with too code. It is for simple project.
+
+- MVP (Model–view–presenter) - Model has the same function as MVC. View now has the Activity and a view interface to allow unit testing. Presenter is similar to the controller from MVC with its own interface and no ties to the View, which ensures testability and flexibility. But it can receive more business logic over time, which makes it difficult to maintain. It is for more complex project but could increase the number of codes in the project.
+
+- MVVM (Model–view–viewmodel) - Model has the same function as MVC. Views binds to observables and actions shown by the ViewModel. ViewModel wraps the model and provides observable data for the view to use. It also passes events from the view to the model, with no ties to the view. MVVM is testable and independent, but view can receive presentation logic over time in the xml if values are not taken directly from the ViewModel, so makes maintenance difficult. It is for more complex project that can have less codes.
+
+**Activity 0502**:
+- I can avoid global variables by ensuring that i only ever pass anything to or from functions via parameters & return values.
