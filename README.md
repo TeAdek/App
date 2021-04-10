@@ -157,7 +157,7 @@ Use of Notifications:
 A Lack of Internet Connectivity:
 - Spotify displays most of the playlists, some with pictures, others blank, with a small text saying no internet connection available. You can only play music that is downloaded offline.
 
-**Activity 0901**:
+**Activity 0902**:
 - Did you use a strategy similar to one of these three?
 I used logging and tracing by watching the data structure to see where the error stops at or program starts being affected. Then I google what the error message means to resolve it. But I did not create a tracing statement.
 
